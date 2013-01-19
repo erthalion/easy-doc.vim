@@ -1,0 +1,6 @@
+Easy-doc 0.1.0 is plugin for generate doc comments for code.
+Now there is realization:
+* Python function (google style docstring)
+* Cpp function (doxygen)
+
+Commentary generation is mapped to <LocalLeader>/
